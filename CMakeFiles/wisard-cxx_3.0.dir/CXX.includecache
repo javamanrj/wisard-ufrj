@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zaedysayao/Documents/dev/WisardLibrary/wisard.cpp
+time.h
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+wnet_lib.hpp
+/Users/zaedysayao/Documents/dev/WisardLibrary/wnet_lib.hpp
+wisard.hpp
+/Users/zaedysayao/Documents/dev/WisardLibrary/wisard.hpp
+iostream
+-
+stdexcept
+-
+
+/Users/zaedysayao/Documents/dev/WisardLibrary/wisard.hpp
+wnet_lib.hpp
+/Users/zaedysayao/Documents/dev/WisardLibrary/wnet_lib.hpp
+assert.h
+-
+stdio.h
+-
+
+/Users/zaedysayao/Documents/dev/WisardLibrary/wnet_lib.cpp
+stdio.h
+-
+string.h
+-
+wnet_lib.hpp
+/Users/zaedysayao/Documents/dev/WisardLibrary/wnet_lib.hpp
+
+/Users/zaedysayao/Documents/dev/WisardLibrary/wnet_lib.hpp
+stdlib.h
+-
+

@@ -1,0 +1,8 @@
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/install/strip.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/install.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/list_install_components.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/rebuild_cache.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/edit_cache.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/install/local.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/test.dir
+/Users/zaedysayao/Documents/dev/WisardLibrary/CMakeFiles/wisard-cxx_3.0.dir

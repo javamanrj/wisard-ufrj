@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -dynamiclib -Wl,-headerpad_max_install_names  -o libwisard-cxx_3.0.dylib -install_name /Users/zaedysayao/Documents/dev/WisardLibrary/libwisard-cxx_3.0.dylib CMakeFiles/wisard-cxx_3.0.dir/wisard.cpp.o CMakeFiles/wisard-cxx_3.0.dir/wnet_lib.cpp.o 
